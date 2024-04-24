@@ -4,10 +4,9 @@ function index() {
   return (
     <section className="hero-container">
       <div className="hero-content">
-        <h2>Building Digital Expriences That Inspire</h2>
+        <h2>Hello. I'm Rafat | Back-end | Front-end</h2>
         <p>
-          Passionate FrontEnd Developer | Transforming Idea Into Seamless and
-          Visually Stunning Web Solution
+        full stack web developer based in jordan.m enthusiastic about crafting user-friendly web experiences with a strong foundation. I stay updated on the latest trends and am eager to contribute to innovative projects.
         </p>
       </div>
 
@@ -16,23 +15,24 @@ function index() {
           <div className="tech-icon">
             <img src="assets/images/icons8-soft-skills-64.png" />
           </div>
-          <img src="assets/images/person.jpeg"width='300px' />
+          <img className="rafat" src="assets/images/person.jpeg"width='300px' />
         </div>
 
 
         <div>
           <div className="tech-icon">
-            <img src="assets/images/icons8-redux-an-open-source-javascript-library-for-managing-application-state-24.png" />
+            <img src="assets/images/icons8-css3-48.png" />
           </div>
           <div className="tech-icon">
-            <img src="assets/images/icons8-redux-an-open-source-javascript-library-for-managing-application-state-24.png" />
+            <img src="assets/images/icons8-javascript-48.png" />
           </div>
           <div className="tech-icon">
-            <img src="assets/images/icons8-redux-an-open-source-javascript-library-for-managing-application-state-24.png" />
+            <img src="assets/images/icons8-node-js-48.png" />
           </div>
           <div className="tech-icon">
-            <img src="assets/images/icons8-redux-an-open-source-javascript-library-for-managing-application-state-24.png" />
+            <img src="assets/images/icons8-html-50.png" />
           </div>
+          
         </div>
       </div>
     </section>

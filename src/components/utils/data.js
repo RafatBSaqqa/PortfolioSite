@@ -117,7 +117,36 @@ export const SKILLS = [
         skill: "Teamwork",
         percentage: "80%",
       },
-      
+    ],
+  },
+];
+
+export const PROJECTS = [
+  {
+    title: "MetaBook",
+    description:
+      "As a team member we build full stack social network web app using agile methodology during Meraki Bootcamp.",
+    info: [
+      "https://c09-metabook.netlify.app/login",
+      "https://github.com/MetaBookTeam/MetaBook_PERN.stack_Social.Media.Platform",
+    ],
+  },
+  {
+    title: "MetaBook",
+    description:
+      "As a team member we build full stack social network web app using agile methodology during Meraki Bootcamp.",
+    info: [
+      "https://c09-metabook.netlify.app/login",
+      "https://github.com/MetaBookTeam/MetaBook_PERN.stack_Social.Media.Platform",
+    ],
+  },
+  {
+    title: "E-Learning",
+    description:
+      "Build as a solo full stack course web app during Meraki Bootcamp.",
+    info: [
+      "https://e-lerning.netlify.app/",
+      "https://github.com/C9-RafatBSaqqa/E-learning",
     ],
   },
 ];
